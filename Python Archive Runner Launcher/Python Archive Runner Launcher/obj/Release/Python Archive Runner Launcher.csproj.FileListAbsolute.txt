@@ -1,0 +1,9 @@
+C:\Users\somer\source\repos\Python Archive Runner Launcher\Python Archive Runner Launcher\bin\Release\Python Archive Runner Launcher.exe
+C:\Users\somer\source\repos\Python Archive Runner Launcher\Python Archive Runner Launcher\bin\Release\Python Archive Runner Launcher.pdb
+C:\Users\somer\source\repos\Python Archive Runner Launcher\Python Archive Runner Launcher\obj\Release\Python Archive Runner Launcher.csproj.AssemblyReference.cache
+C:\Users\somer\source\repos\Python Archive Runner Launcher\Python Archive Runner Launcher\obj\Release\Python_Archive_Runner_Launcher.Form1.resources
+C:\Users\somer\source\repos\Python Archive Runner Launcher\Python Archive Runner Launcher\obj\Release\Python_Archive_Runner_Launcher.Properties.Resources.resources
+C:\Users\somer\source\repos\Python Archive Runner Launcher\Python Archive Runner Launcher\obj\Release\Python Archive Runner Launcher.csproj.GenerateResource.cache
+C:\Users\somer\source\repos\Python Archive Runner Launcher\Python Archive Runner Launcher\obj\Release\Python Archive Runner Launcher.csproj.CoreCompileInputs.cache
+C:\Users\somer\source\repos\Python Archive Runner Launcher\Python Archive Runner Launcher\obj\Release\Python Archive Runner Launcher.exe
+C:\Users\somer\source\repos\Python Archive Runner Launcher\Python Archive Runner Launcher\obj\Release\Python Archive Runner Launcher.pdb
